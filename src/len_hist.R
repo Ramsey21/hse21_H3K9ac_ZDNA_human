@@ -2,11 +2,11 @@ source('lib.R')
 
 ###
 
-NAME <- 'DeepZ'
+#NAME <- 'DeepZ'
 #NAME <- 'H3K9ac_H1.ENCFF679LHF.hg19'
 #NAME <- 'H3K9ac_H1.ENCFF679LHF.hg38'
 #NAME <- 'H3K9ac_H1.ENCFF719SGF.hg19'
-#NAME <- 'H3K9ac_H1.ENCFF719SGF.hg38'
+NAME <- 'H3K9ac_H1.ENCFF719SGF.hg38'
 
 ###
 
@@ -20,4 +20,4 @@ ggplot(bed_df) +
     geom_histogram() +
     ggtitle(NAME, subtitle = sprintf('Number of peaks = %s', nrow(bed_df))) +
     theme_bw()
-ggsave(paste0('len_hist.', NAME, '.pdf'), path = OUT_DIR)
+ggsave(paste0('len_hist.', NAME, '.png'), path = OUT_DIR)
