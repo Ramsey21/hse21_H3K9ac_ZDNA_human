@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/Ramsey21/hse21_H3K9ac_ZDNA_human/master/data/H
 
 <img width="45%" src="https://github.com/Ramsey21/hse21_H3K9ac_ZDNA_human/blob/master/images/chip_seeker.H3K9ac_H1.intersect_with_DeepZ.plotAnnoPie.png" />
 
-Всего [8760](https://raw.githubusercontent.com/Ramsey21/hse21_H3K9ac_ZDNA_human/master/data/H3K9ac_H1.intersect_with_DeepZ.genes.txt) пиков, ассоциированных с генами, из них [6928](https://github.com/zradmila/hse21_H3K9ac_ZDNA_human/blob/main/data/H3K9ac_k562.intersect_with_DeepZ.genes_uniq.txt) уникальных
+Всего [8760](https://raw.githubusercontent.com/Ramsey21/hse21_H3K9ac_ZDNA_human/master/data/H3K9ac_H1.intersect_with_DeepZ.genes.txt) пиков, ассоциированных с генами, из них [5672](https://github.com/zradmila/hse21_H3K9ac_ZDNA_human/blob/main/data/H3K9ac_k562.intersect_with_DeepZ.genes_uniq.txt) уникальных
 
 ## GO-анализ
 
