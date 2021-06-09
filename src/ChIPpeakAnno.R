@@ -3,8 +3,8 @@ source('lib.R')
 ###
 
 # https://bioconductor.org/packages/release/bioc/vignettes/ChIPpeakAnno/inst/doc/quickStart.html
- BiocManager::install("ChIPpeakAnno")
- BiocManager::install("org.Hs.eg.db")
+ #BiocManager::install("ChIPpeakAnno")
+ #BiocManager::install("org.Hs.eg.db")
 # BiocManager::install("org.Mm.eg.db")
 
 library(ChIPpeakAnno)
